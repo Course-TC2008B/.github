@@ -17,6 +17,6 @@ Considera la situación en la que se tiene un paso peatonal en una avenida de do
 
 Esta implementación busca simular el tráfico para mejorar sus flujos en la Zona Metropolitana de Guadalajara y consta de los siguientes repositorios: 
 
-- Jupyter_Notebook
-- Avenue_Sim_Server
-- Unity_Env
+- [Jupyter_Notebook] (https://github.com/Course-TC2008B/Jupyter_Notebook): Contiene una interfaz gráfica sensilla como resultado de la simulación y genera un archivo json con la infroamción de la simulación.
+- [Avenue_Sim_Server] (https://github.com/Course-TC2008B/Avenue_Sim_Server): Es el servidor node se montó el código de la simulación multiagente  para obatner la infromación nesaria para hacer la simulación con gráficos.
+- [Unity_Env] (https://github.com/Course-TC2008B/Unity_Env): Desarrollo de la implemetentación gráfica de la simulación.
